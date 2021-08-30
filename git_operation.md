@@ -10,5 +10,5 @@ git commit -m "delete file"
 git push //把本地仓库文件上传至远程仓库
 ```
 
-![截屏2021-08-30 上午10.25.40](/Users/xiatian/Library/Application Support/typora-user-images/截屏2021-08-30 上午10.25.40.png)
+![截屏2021-08-30 上午10.25.40](截屏2021-08-30 上午10.25.40.png)
 
